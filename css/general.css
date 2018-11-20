@@ -1,0 +1,195 @@
+body{
+	margin:0 ;
+	padding:0;
+	text-align:center;
+	font-family:”微軟雅黑”,”Microsoft YaHei”,”宋體”,Arial,”微軟正黑體”,”Microsoft JhengHei”;
+    /*background-color:#FFC0CB;*/
+}
+h1{
+	color:white;
+	margin:0 auto;
+	font-size:48px;
+}
+h2{
+	font-size:40px;
+}
+
+.block{
+	/*background-color:#FFC0CB;*/
+}
+.block h1{
+	position:relative;
+	top:45%;
+}
+.block0{
+	background-image: url("../images/bg1.jpg");
+}
+.parallax {
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.block2 {
+	position:relative;
+}
+
+
+.block3{
+	background-color: white;
+	opacity: 0.75;
+    filter: alpha(opacity=75);
+    position:absolute;
+    left:-500px;
+    top:0;
+    width:30%;
+}
+
+.block3 h2{
+	position:relative;
+	top:45%;
+
+}
+
+.block4{
+	background-image: url("../images/schoolmate-e.jpg");
+}
+.block6{
+	position:relative;
+}
+.block7{
+    position:absolute;
+    left:-750px;
+    top:0;
+    width:50%;
+    background-image: url("../images/kawing2.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.block8{
+    position:absolute;
+    right:-750px;
+    top:0;
+    width:50%;
+    background-image: url("../images/kawing.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.block9{
+	background-image: url("../images/skw-e.jpg");
+}
+.block10{
+	background-image: url("../images/class.jpg");
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.block10-2{
+    background-image: url("../images/secondary.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.block11{
+	background-image: url("../images/ckt-e.jpg");
+}
+
+.block14{
+    position:relative;
+    background-image: url("../images/sailormoon.jpg");
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.block15{
+    position:relative;
+    background-image: url("../images/beauty.jpg");
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.block17{
+    background-image: url("../images/U.jpg");
+}
+.block19{
+    background-image: url("../images/U2.jpg");
+}
+.block21{
+    background-image: url("../images/dance.jpg");
+    background-position: top;
+}
+.block23{
+    background-image: url("../images/grad.jpg");
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.block25{
+    background-image: url("../images/fly.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: white;
+
+}
+
+.block27{
+    position:relative;
+    background-image: url("../images/fly2.jpg");
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.block28{
+    position:relative;
+    background-image: url("../images/fly3.jpg");
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+.block29{
+    background-image: url("../images/mob.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+     background-size: cover;
+}
+.block30{
+    background-image: url("../images/10.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: white;
+  }
+.block32{
+      background-image: url("../images/us.jpg");
+
+}
+.block33{
+      background-image: url("../images/us2.jpg");
+      background-position: center;
+}
+.block34{
+      background-image: url("../images/us3.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: white;
+    background-size: contain;
+}
+.block35{
+      background-image: url("../images/30.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: white;
+    background-size: contain;
+}
+
